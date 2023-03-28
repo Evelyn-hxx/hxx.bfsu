@@ -1,0 +1,9 @@
+strong { color: red; }
+.carrot { color: orange;
+text-decoration: underline;
+font-style: italic;
+}
+.spinach { color: green; }
+#first { font-style: italic; }
+/* color for headings */
+h1, h2, h3 {color: navy;}
